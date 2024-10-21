@@ -19,7 +19,7 @@ body {
     position: relative;
     width: 100%;
     height: 100vh;
-    background: linear-gradient(135deg, #242337,  #c21798, #151515);
+    background: linear-gradient(135deg, #ba6f84,  #c21798, #626262);
     background-size: cover;
     background-position: center;
     display: flex;
